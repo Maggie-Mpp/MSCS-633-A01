@@ -90,30 +90,5 @@ Exit with `quit`, `exit`, or `:q`.
 
 ---
 
-## 📸 Screenshot
-A sample screenshot is included in the Word document in this folder. If you need to refresh:
-1. Run `python manage.py chat_bot`
-2. Capture the terminal output showing the required I/O
-3. Paste into the Word doc where indicated
-
----
-
-## 🔗 GitHub Instructions
-```bash
-git init
-git add .
-git commit -m "Initial commit: Django + ChatterBot terminal client"
-git branch -M main
-git remote add origin <YOUR_REPO_URL>
-git push -u origin main
-```
-Include the **GitHub URL** in your Word document submission.
-
----
-
-## 🧾 Manifest
-See `MANIFEST.md` for the list of core files to submit.
-
----
 
 _Last updated: 2025-09-29T01:36:55_
