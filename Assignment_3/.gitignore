@@ -1,0 +1,19 @@
+.venv/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Django / SQLite
+db.sqlite3
+media/
+staticfiles/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

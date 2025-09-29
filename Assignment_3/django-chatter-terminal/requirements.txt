@@ -1,0 +1,5 @@
+Django==4.2.14
+chatterbot2==1.1.0a7
+chatterbot_corpus==1.2.0
+SQLAlchemy
+python-dateutil==2.8.2
